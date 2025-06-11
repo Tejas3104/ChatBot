@@ -41,7 +41,6 @@ AgriBot aims to:
 - 🌦️ Information on weather, soil, fertilizer, and irrigation  
 - 📄 Details about government schemes, MSPs, and mandi prices  
 - 🧑‍🏫 Explains farming best practices in simple language  
-- 🧾 Multilingual support (optional) for regional accessibility  
 - 🔒 Lightweight and privacy-focused – no data storage
 
 ---
